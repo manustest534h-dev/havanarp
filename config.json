@@ -3,10 +3,10 @@
   "apk": {
     "version": 729,
     "str": "4.17.11",
-    "path": "https://github.com/manustest534h-dev/havanarp-cdn/releases/download/v729-stable/HavanaRp-v729-latest.apk",
+    "path": "https://github.com/manustest534h-dev/havanarp/releases/download/v729/HavanaRp.apk",
     "auto_update": true,
     "manual_update": true,
-    "manual_update_url": "https://github.com/manustest534h-dev/havanarp-cdn/releases/download/v729-stable/HavanaRp-v729-latest.apk"
+    "manual_update_url": "https://github.com/manustest534h-dev/havanarp/releases/download/v729/HavanaRp.apk"
   },
   "urls": {
     "URL_HOST": "https://igta-online.my-fastdl.com/ONLINERP/prod/files",
@@ -15,7 +15,7 @@
     "URL_HELP": "help.json",
     "URL_ONLINE_API": "https://api.onlinerp.com/v1/servers",
     "URL_DONATE_API": "https://api.gta-mobile.ru/oldAPI/donate_api.php",
-    "URL_SITE": "https://raw.githubusercontent.com/manustest534h-dev/havanarp/main",
+    "URL_SITE": "https://raw.githubusercontent.com/manustest534h-dev/havanarp-cdn/main/api/runtime",
     "URL_VK": "https://vk.com/online_samp",
     "URL_YOUTUBE": "https://www.youtube.com/channel/UCCzB4ySWiZfRvApMU2CTfEA",
     "URL_INSTAGRAM": "https://www.instagram.com/online_samp",
